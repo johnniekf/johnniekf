@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johnnie</h1>
-<h3 align="center">Developer, tech enthusiast, and relentless problem-solver.</h3>
+<h3 align="center">I make stuff.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnniekf&label=Profile%20views&color=0e75b6&style=flat" alt="johnniekf" /> </p>
 
